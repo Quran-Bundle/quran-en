@@ -31,7 +31,7 @@ clean:
 .PHONY: dev
 dev:
 	cd tex || exit
-	sudo cp -v *.def quran-en.sty /usr/local/texlive/2023/texmf-dist/tex/xelatex/quran-en/
+	sudo cp -v *.def quran-en.sty /usr/local/texlive/2025/texmf-dist/tex/xelatex/quran-en/
 
 .PHONY: ctan
 ctan:
