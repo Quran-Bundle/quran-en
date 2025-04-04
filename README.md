@@ -1,5 +1,5 @@
-# The quran package
-Copyright © 2023
+# The quran-en package
+Copyright © 2023-2025
 
 The [`quran-en`](https://ctan.org/pkg/quran-en) package is an extension of the [`quran`](https://ctan.org/pkg/quran) LaTeX package, designed to enhance the typesetting of the Holy Quran by incorporating several English translations. It provides support for English translations carried out by notable translators such as `Ahmed Ali`, `Ahmed Raza Khan`, `A. J. Arberry`, `Abdul Majid Daryabadi`, `Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan`, `Talal Itani`, `Abul Ala Maududi`, `Safi-ur-Rahman al-Mubarakpuri`, `Mohammed Marmaduke William Pickthall`, `Ali Quli Qarai`, `Hasan al-Fatih Qaribullah and Ahmad Darwish`, `Saheeh International`, `Muhammad Sarwar`, `Mohammad Habib Shakir`, `Wahiduddin Khan`, and `Abdullah Yusuf Ali`.
 
